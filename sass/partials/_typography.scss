@@ -1,0 +1,7 @@
+.text-gray {
+  color: $text-gray !important;
+}
+
+.text-gray.active {
+  color: $primary !important;
+}
